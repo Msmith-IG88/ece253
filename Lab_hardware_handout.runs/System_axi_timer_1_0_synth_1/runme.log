@@ -1,0 +1,4 @@
+
+*** Running vivado
+    with args -log System_axi_timer_1_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source System_axi_timer_1_0.tcl
+

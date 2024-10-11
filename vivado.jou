@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Oct 10 23:45:52 2024
+# Process ID: 31936
+# Current directory: C:/Users/Michael/Lab_hardware_handout
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent34600 C:\Users\Michael\Lab_hardware_handout\Lab_hardware_handout.xpr
+# Log file: C:/Users/Michael/Lab_hardware_handout/vivado.log
+# Journal file: C:/Users/Michael/Lab_hardware_handout\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Michael/Lab_hardware_handout/Lab_hardware_handout.xpr
